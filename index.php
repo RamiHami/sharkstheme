@@ -35,7 +35,7 @@
       <?php endif; ?>
     </div>
     <div id="add-note">
-      <input type="file" multiple="multiple" accept=".txt,image/*">
+      <input type="file">
       <button class="upload_files button">Загрузить</button>
       <div class="ajax-reply"></div>
     </div>
